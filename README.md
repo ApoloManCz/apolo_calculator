@@ -1,10 +1,10 @@
 # **INFORMATION**
 
 Hey guys! I just made simple and easy calculator script for your server, just type (example): 
-**1. /calculate 1 + 5 **
-**2. /calculate 1 - 5 **
-**3. /calculate 1 / 5 **
-**4. /calculate 1 * 5**
+1. /calculate 1 + 5 
+2. /calculate 1 - 5 
+3. /calculate 1 / 5 
+4. /calculate 1 * 5
 
 # **DEPENDENCIES**
 
